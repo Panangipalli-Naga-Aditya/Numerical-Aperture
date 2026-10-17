@@ -1,0 +1,6 @@
+{
+  "name": "Numerical Aperture - Optical Fiber 3D Lab",
+  "description": "Interactive 3D laboratory apparatus and physics simulation suite for determining the Numerical Aperture and acceptance angle of an optical fiber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
